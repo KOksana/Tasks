@@ -10,6 +10,7 @@ namespace Tasks
     {
         static void Main(string[] args)
         {
+            BinarySearch.Processing();
         }
     }
 }
